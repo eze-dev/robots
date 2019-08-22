@@ -9,6 +9,8 @@ const Card = ({name,email,id } )=>{
             <div>
                 <h2>{name} </h2>
                 <p>{email} </p>
+                <h3>towa eeeeeeh</h3>
+                
             </div>
         
         </div>
